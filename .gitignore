@@ -12,3 +12,7 @@ __pycache__/
 # Data files (too large for GitHub)
 data/raw/
 data/processed/
+
+#Databases
+*.sqlite
+*.db
